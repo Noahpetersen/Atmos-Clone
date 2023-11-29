@@ -17,7 +17,6 @@ function App() {
           <Noise opacity={0.1} />
         </EffectComposer>
       </Canvas>
-      <Overlay/>
     </>
   )
 }
